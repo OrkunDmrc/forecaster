@@ -6,7 +6,7 @@ My first React app.
 
 ## Features
 1. WebApp showing the weather 7 days from today. 
-2. Supported by https://turkiyeapi.dev/ as cities and https://api.weatherapi.com/ as tempatures.
+2. Supported by https://turkiyeapi.dev/ for cities and https://api.weatherapi.com/ for tempatures.
 
 ## Technologies
 
