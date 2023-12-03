@@ -10,8 +10,8 @@ My first React app.
 
 ## Technologies
 
-    - Reactjs
-    - Axios
+- Reactjs
+- Axios
 
 # Getting Started with Create React App
 
