@@ -1,0 +1,26 @@
+#WeatherDays{
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 1px gray;
+    flex-wrap: wrap;
+}
+
+#WeatherDay{
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 1px 1px 1px rgb(202, 194, 194);
+    padding: 3px;
+    height: max-content;
+    width: 6rem;
+    height: 12rem;
+    margin: 5px;
+    text-align: center;
+    justify-content: space-around;
+}
