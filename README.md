@@ -2,14 +2,16 @@
 
 My first React app.
 
+![alt text](https://i.hizliresim.com/k2nj9z8.PNG)
+
 ## Features
-1. WebApp showing the weather 7 days from today. 
-2. Supported by https://turkiyeapi.dev/ as cities and https://api.weatherapi.com/ as tempatures.
+    1. WebApp showing the weather 7 days from today. 
+    2. Supported by https://turkiyeapi.dev/ as cities and https://api.weatherapi.com/ as tempatures.
 
 ## Technologies
 
-- Reactjs
-- Axios
+    - Reactjs
+    - Axios
 
 # Getting Started with Create React App
 
