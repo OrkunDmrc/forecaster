@@ -1,3 +1,16 @@
+# Forecaster
+
+My first React app.
+
+## Features
+1. WebApp showing the weather 7 days from today. 
+2. Supported by https://turkiyeapi.dev/ as cities and https://api.weatherapi.com/ as tempatures.
+
+## Technologies
+
+- Reactjs
+- Axios
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
